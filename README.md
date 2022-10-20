@@ -31,5 +31,5 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/youxin1231/youxin1231/blob/output/github-snake.gif?raw=true" width="80%"/>
+    <img src="https://github.com/youxin1231/youxin1231/blob/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 </div>
