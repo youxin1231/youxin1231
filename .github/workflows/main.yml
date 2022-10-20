@@ -1,23 +1,33 @@
 name: generate animation
 
 on:
+  # run automatically every 6 hours
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 */6 * * *"
+    
+  # allows to manually run the job at any time
   workflow_dispatch:
-
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+    
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      
+      - uses: Platane/snk@v2
         with:
-        
-          github_user_name: youxin1231
-          
-          gif_out_path: dist/github-snake.gif
-          
-          svg_out_path: dist/github-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            
       - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
