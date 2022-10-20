@@ -23,8 +23,13 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
+
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=youxin1231&theme=onedark&date_format=%5BY.%5Dn.j" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=youxin1231&theme=onedark" width=55% />
 </div>
 
 <div align="center">
@@ -32,11 +37,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=youxin1231&count_private=true&show_icons=true&theme=onedark" width=35%/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxin1231&theme=onedark&hide=javascript,html,Batchfile,Makefile&layout=compact" width=35%/>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=youxin1231&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=youxin1231&count_private=true&show_icons=true&theme=onedark" width=40%/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxin1231&theme=onedark&hide=javascript,html,Batchfile,Makefile&layout=compact" width=40%/>
 </div>
 
 <div align="center">
