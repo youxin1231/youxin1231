@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/YouSing1231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="林佑鑫" height="30" width="40" /></a>
+<a href="https://fb.com/YouSing1231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YouShing1231" height="30" width="40" /></a>
 <a href="https://instagram.com/youshing1231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youshing1231" height="30" width="40" /></a>
 <a href="https://twitter.com/tommy135721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tommy135721" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/you-sin lin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="you-sin-lin-151350254" height="30" width="40" /></a>
@@ -16,19 +16,19 @@
 
 <div>
     <a href=https://github.com/anuraghazra/github-readme-stats>
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=youxin1231&count_private=true&show_icons=true&theme=onedark" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=youxin1231&count_private=true&show_icons=true&theme=onedark" />
     </a>
     <a href=https://github.com/anuraghazra/github-readme-stats>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxin1231&theme=onedark&hide=javascript,html,Batchfile,Makefile&layout=compact" />
-  </a>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxin1231&theme=onedark&hide=javascript,html,Batchfile,Makefile&layout=compact" />
+    </a>
 </div>
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=youxin1231&theme=onedark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<a href=https://git.io/streak-stats>
+    <img align="center" src="https://streak-stats.demolab.com?user=youxin1231&theme=onedark&date_format=%5BY.%5Dn.j" />
+</a>
 
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=youxin1231&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youxin1231)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youxin1231&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Contribution Snake](https://github.com/youxin1231/youxin1231/blob/output/github-snake.gif?raw=true)
