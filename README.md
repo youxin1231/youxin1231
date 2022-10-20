@@ -27,6 +27,7 @@
 </div>
 
 <div align="center">
+    [![wakatime](https://wakatime.com/badge/user/20024524-9be6-424d-99e8-64740a9e2a4c.svg)](https://wakatime.com/@20024524-9be6-424d-99e8-64740a9e2a4c)
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=youxin1231&theme=onedark" />
 </div>
 
