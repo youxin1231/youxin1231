@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tommy Lin</h1>
+<h1 align="center">Tommy Lin</h1>
 <h3 align="center">A master student in National Taiwan University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youxin1231&label=Profile%20views&color=0e75b6&style=flat" alt="youxin1231" /> </p>
@@ -12,7 +12,6 @@
 <a href="https://kaggle.com/youxinlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youxinlin" height="30" width="40" /></a>
 <a href="https://fb.com/林佑鑫" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="林佑鑫" height="30" width="40" /></a>
 <a href="https://instagram.com/youshing1231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youshing1231" height="30" width="40" /></a>
-<a href="https://discord.gg/YouShing#4735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YouShing#4735" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
