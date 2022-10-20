@@ -1,8 +1,6 @@
 <h1 align="center">Tommy Lin</h1>
 <h3 align="center">A master student in National Taiwan University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youxin1231&label=Profile%20views&color=0e75b6&style=flat" alt="youxin1231" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youxin1231" alt="youxin1231" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
