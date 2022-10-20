@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youxin1231&" alt="youxin1231" /></p>
 
-(https://github.com/youxin1231/youxin1231/blob/output/github-snake.gif)
+![alt text](https://github.com/youxin1231/youxin1231/blob/output/github-snake.gif?raw=true)
