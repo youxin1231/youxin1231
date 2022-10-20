@@ -1,5 +1,5 @@
 <h1 align="left">Tommy Lin</h1>
-<h3 align="center">A master student in National Taiwan University</h3>
+<h3 align="left">A master student in National Taiwan University</h3>
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
