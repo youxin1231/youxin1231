@@ -1,12 +1,12 @@
 ## 🐼About Me
-Hi, I'm Tommy, A Taiwanese🇹🇼 student at the Institute of Computer Science & Information Engineering, National Taiwan University.
+#### Hi, I'm Tommy, A Taiwanese🇹🇼 student at the Institute of Computer Science & Information Engineering, National Taiwan University.
 <div align="center">
     <img src="https://github.com/youxin1231/youxin1231/blob/main/src/cat.gif" width="20%"/>
 </div>
 
-## 🏫Educations
-* (Now) National Taiwan University - Master of Computer Science & Information Engineering
-* National Chiao Tung University - Bachelor of Computer Science
+## 🏫Education
+* #### (Now) National Taiwan University - Master of Computer Science & Information Engineering
+* #### National Chiao Tung University - Bachelor of Computer Science
 
 
 ## 🛠Languages and Tools
@@ -14,6 +14,9 @@ Hi, I'm Tommy, A Taiwanese🇹🇼 student at the Institute of Computer Science 
 
 
 ## 📈GitHub Stats
+<div align="left">
+    <img src="https://wakatime.com/badge/user/20024524-9be6-424d-99e8-64740a9e2a4c.svg" />
+</div>
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=youxin1231&theme=onedark&row=1&column=3&no-frame=true&no-bg=true"/>
