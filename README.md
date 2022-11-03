@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxin1231&theme=onedark&hide=javascript,html,Batchfile,Makefile&layout=compact" width="37%" /><img src="https://github-readme-stats.vercel.app/api/wakatime?username=youxin1231&theme=onedark" width="43%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxin1231&theme=onedark&hide=javascript,html,Batchfile,Makefile&layout=compact" width="37%" /><img src="https://github-readme-stats.vercel.app/api/wakatime?username=youxin1231&theme=onedark&langs_count=4&hide=Text,csv,json" width="43%" />
 </div>
 
 <div align="center">
