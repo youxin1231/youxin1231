@@ -28,11 +28,11 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=youxin1231&count_private=true&show_icons=true&theme=onedark" width="40%" /><img src="https://streak-stats.demolab.com?user=youxin1231&theme=onedark&date_format=%5BY.%5Dn.j" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=youxin1231&count_private=true&show_icons=true&theme=onedark" width="38.7%" /><img src="https://streak-stats.demolab.com?user=youxin1231&theme=onedark&date_format=%5BY.%5Dn.j" width="41.3%" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxin1231&theme=onedark&hide=javascript,html,Batchfile,Makefile&layout=compact" width="33.6%" /><img src="https://github-readme-stats.vercel.app/api/wakatime?username=youxin1231&theme=onedark&langs_count=4&hide=Text,csv,json" width="46.4%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxin1231&theme=onedark&hide=javascript,html,Batchfile,Makefile&layout=compact" width="30.7%" /><img src="https://github-readme-stats.vercel.app/api/wakatime?username=youxin1231&theme=onedark&langs_count=4&hide=Text,csv,json" width="49.3%" />
 </div>
 
 <div align="center">
