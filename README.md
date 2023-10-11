@@ -1,4 +1,4 @@
-** 🐶About Me
+## 🐶About Me
 
 #### Hi, I'm Tommy, A Taiwanese🇹🇼 student at the Institute of Computer Science & Information Engineering, National Taiwan University.
 
