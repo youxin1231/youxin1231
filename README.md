@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=youxin1231&theme=onedark&row=1&column=3&no-frame=true&no-bg=true"/>
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=youxin1231&theme=onedark&row=1&column=3&no-frame=true&no-bg=true"/>
 </div>
 
 <div align="center">
