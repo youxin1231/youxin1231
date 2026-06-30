@@ -36,11 +36,7 @@
 </div>
 
 <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-      <img alt="github-snake" src="github-snake.svg" />
-    </picture>
+    <img src="https://github.com/youxin1231/youxin1231/blob/output/github-contribution-grid-snake.svg" width="84%"/>
 </div>
 
 
