@@ -35,11 +35,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxin1231&theme=onedark&hide=javascript,html,Batchfile,Makefile&layout=compact" width="30.7%" /><img src="https://github-readme-stats.vercel.app/api/wakatime?username=youxin1231&theme=onedark&langs_count=4&hide=Text,csv,json" width="49.3%" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<div align="center">
+    <img src="https://github.com/youxin1231/youxin1231/blob/output/github-snake-dark.svg" width="84%"/>
+</div>
 
 
 ## 📱Contact me
