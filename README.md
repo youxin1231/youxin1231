@@ -1,6 +1,6 @@
 ## 🐶About Me
 
-#### Hi, I'm Tommy, A Taiwanese🇹🇼 student at the Institute of Computer Science & Information Engineering, National Taiwan University.
+#### Hi, I'm Tommy.
 
 <div align="center">
     <img src="https://github.com/youxin1231/youxin1231/blob/main/src/cat.gif" width="20%"/>
