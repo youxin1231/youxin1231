@@ -37,6 +37,7 @@
 
 <div align="center">
     <img src="https://github.com/youxin1231/youxin1231/blob/output/github-contribution-grid-snake.svg" width="84%"/>
+    <img src="https://raw.githubusercontent.com/youxin1231/youxin1231/output/github-snake-dark.svg" width="84%"/>
 </div>
 
 
