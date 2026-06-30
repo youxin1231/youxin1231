@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/youxin1231/youxin1231/blob/output/github-snake-dark.svg" width="84%"/>
+    <img src="https://github.com/youxin1231/youxin1231/blob/output/github-snake.svg" width="84%"/>
 </div>
 
 
